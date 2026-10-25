@@ -9,6 +9,18 @@ I'm the founder of [Parmana Systems](https://parmanasystems.com), where we build
 - **Parmana**: policy-gated execution and signed Execution Trust Records for AI agents
 - **Governance and compliance**: mapping agent controls to the EU AI Act, NIST AI RMF, ISO/IEC 42001 and RBI guidance
 
+## Experience
+
+- **Founder & Product Lead, [Parmana Systems](https://parmanasystems.com)** (Aug 2023 to present): built the authorization and enforcement layer for AI agents, from 0 to 1 as sole builder
+- **Product Manager, Bada Business** (2023): launched 0 to 1 products for digital learning and business education
+- **Associate Product Manager, Shaadi.com** (2021 to 2023): onboarding, activation and trust & safety for a platform with 2M+ monthly active users
+- **Associate Product Manager, MakeMyTrip** (2018 to 2020): marketplace and supply-side products across hotels
+- **Account Manager, MakeMyTrip** (2016 to 2018): strategic partnerships for a hospitality portfolio above ₹1,500 crore a year
+- **Founder, 132Connect** (2015 to 2016): a platform connecting engineering students with jobs
+- **Software Engineer, Tata Consultancy Services** (2010 to 2013)
+
+**Education:** MBA in Finance, IMT Ghaziabad · B.Tech, NIT Srinagar
+
 ## Repositories
 
 | Repo | What it is |
