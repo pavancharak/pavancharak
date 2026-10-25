@@ -2,26 +2,39 @@
 
 [![npm: @parmana/sdk](https://img.shields.io/npm/v/@parmana/sdk?label=%40parmana%2Fsdk&color=cb3837)](https://www.npmjs.com/package/@parmana/sdk) [![npm: @parmana/verifier](https://img.shields.io/npm/v/@parmana/verifier?label=%40parmana%2Fverifier&color=cb3837)](https://www.npmjs.com/package/@parmana/verifier) [![PyPI: parmana](https://img.shields.io/pypi/v/parmana?label=parmana&color=3776ab)](https://pypi.org/project/parmana/) [![PyPI: parmana-verifier](https://img.shields.io/pypi/v/parmana-verifier?label=parmana-verifier&color=3776ab)](https://pypi.org/project/parmana-verifier/)
 
-**Founder, [Parmana Systems](https://parmanasystems.com)**: I build authorization and enforcement for AI agents, so every action is checked against signed policy and leaves a record anyone can verify offline.
+**Founder, [Parmana Systems](https://parmanasystems.com).** I write on and build the controls that let AI agents act on real systems: every action checked against signed policy, and a record anyone can verify offline.
 
-Product leader with 14+ years across engineering, product and founding. I write the spec and build the system, particularly for regulated environments where every action has to be accountable.
+Product leader with 14+ years across engineering, product and founding, including trust & safety at consumer scale. I write the spec and build the system, particularly for regulated environments where every action has to be accountable.
 
-## Now
+## Thought leadership
 
-- **Parmana**: policy-gated execution for AI agents, with signed Execution Trust Records
-- **Verification**: Ed25519 and post-quantum ML-DSA-65 signatures, checkable offline with no trust in Parmana's servers
-- **Governance**: mapping agent controls to the EU AI Act, NIST AI RMF, ISO/IEC 42001 and RBI guidance
+My focus is where AI agents meet accountability: who authorized an action, what policy allowed it, and how a third party can check the record afterwards.
 
-## Repositories
+- **AI governance for agents:** why a prompt is not a control, and what enforceable controls look like
+- **Verifiable AI:** signed execution records, post-quantum readiness (ML-DSA-65), and offline verification
+- **Regulation in practice:** mapping agent controls to the EU AI Act, NIST AI RMF, ISO/IEC 42001 and RBI guidance
+- **Trust & safety and fraud at scale:** lessons from a platform with 2M+ monthly active users
 
-| Repo | What it is |
-| --- | --- |
-| [parmana-core](https://github.com/pavancharak/parmana-core) | Policy-gated execution for AI agents, with signed Execution Trust Records |
-| [parmana-verifier](https://github.com/pavancharak/parmana-verifier) | Offline verifier for Execution Trust Records: no network, no account, no dependencies |
-| [parmana-site](https://github.com/pavancharak/parmana-site) | Website for Parmana |
-| [parmana-blog](https://github.com/pavancharak/parmana-blog) | Writing on AI governance and verifiable AI |
+Published work:
+- [Regulation mapping](https://docs.parmanasystems.com/security/regulation-mapping): how Parmana supports human oversight and record keeping under the EU AI Act, NIST AI RMF, ISO/IEC 42001 and RBI guidance
+- [OWASP mapping](https://docs.parmanasystems.com/security/owasp-mapping): Parmana against the OWASP Top 10 for LLM and Agentic Applications
+- [How Parmana compares](https://docs.parmanasystems.com/how-parmana-compares): Parmana next to IAM, API gateways and LLM guardrails, including where it is weaker
 
-## SDKs and packages
+## Consulting and advisory
+
+I work with teams that have an AI agent near money, a system of record or a regulated process, and need to decide what it may do and how to prove it:
+
+- **Agent authorization design:** policy, approval and execution boundaries for agents that act on real systems
+- **Governance and audit readiness:** evidence, records and controls mapped to the regulation you answer to
+- **Product strategy for AI platforms:** 0 to 1 product definition, roadmap and go-to-market for governance-focused infrastructure
+- **Trust & safety:** abuse, fraud and onboarding controls at consumer scale
+
+Engagements start with a short conversation about one real workflow.
+
+## Products and open source
+
+- **Parmana:** policy-gated execution for AI agents, with signed Execution Trust Records ([parmana-core](https://github.com/pavancharak/parmana-core))
+- **Parmana Verifier:** offline checks for Execution Trust Records, with no network, no account and no dependencies ([parmana-verifier](https://github.com/pavancharak/parmana-verifier))
 
 | Package | Language | Install |
 | --- | --- | --- |
@@ -31,6 +44,8 @@ Product leader with 14+ years across engineering, product and founding. I write 
 | [`parmana-connector-sdk`](https://pypi.org/project/parmana-connector-sdk/) | Python connector SDK | `pip install parmana-connector-sdk` |
 | [`@parmana/verifier`](https://www.npmjs.com/package/@parmana/verifier) | TypeScript verifier | `npm install -g @parmana/verifier` |
 | [`parmana-verifier`](https://pypi.org/project/parmana-verifier/) | Python verifier | `pip install parmana-verifier` |
+
+Other repositories: [parmana-site](https://github.com/pavancharak/parmana-site) (website) and [parmana-blog](https://github.com/pavancharak/parmana-blog) (writing on AI governance and verifiable AI).
 
 ## Experience
 
@@ -46,6 +61,6 @@ Product leader with 14+ years across engineering, product and founding. I write 
 
 ## Get in touch
 
+- Consulting, speaking and partnerships: founder@parmanasystems.com
 - LinkedIn: [linkedin.com/in/pavancharak](https://www.linkedin.com/in/pavancharak/)
-- Work with us: founder@parmanasystems.com
 - Website: [parmanasystems.com](https://parmanasystems.com)
