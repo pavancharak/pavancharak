@@ -1,5 +1,7 @@
 # Pavan Dev Singh Charak
 
+[![npm: @parmana/sdk](https://img.shields.io/npm/v/@parmana/sdk?label=%40parmana%2Fsdk&color=cb3837)](https://www.npmjs.com/package/@parmana/sdk) [![npm: @parmana/verifier](https://img.shields.io/npm/v/@parmana/verifier?label=%40parmana%2Fverifier&color=cb3837)](https://www.npmjs.com/package/@parmana/verifier) [![PyPI: parmana](https://img.shields.io/pypi/v/parmana?label=parmana&color=3776ab)](https://pypi.org/project/parmana/) [![PyPI: parmana-verifier](https://img.shields.io/pypi/v/parmana-verifier?label=parmana-verifier&color=3776ab)](https://pypi.org/project/parmana-verifier/)
+
 **Founder, [Parmana Systems](https://parmanasystems.com)**: I build authorization and enforcement for AI agents, so every action is checked against signed policy and leaves a record anyone can verify offline.
 
 Product leader with 14+ years across engineering, product and founding. I write the spec and build the system, particularly for regulated environments where every action has to be accountable.
