@@ -12,7 +12,13 @@ Product leader with 14+ years across engineering, product and founding, includin
 >
 > A prompt instruction is not a control. What holds up is a check before each action that a person has approved, and a record a third party can verify without trusting the system that produced it.
 >
-> I work on this through Parmana Systems. I'm open to advisory and architecture reviews, research collaboration, and speaking for business leaders, boards, regulators and students.
+> I work on this through Parmana Systems. The core ([parmana-core](https://github.com/pavancharak/parmana-core)), the [verifier](https://github.com/pavancharak/parmana-verifier) and the SDKs are open source under Apache 2.0.
+>
+> I'm open to:
+>
+> - Advisory and architecture reviews
+> - Research collaboration
+> - Speaking for business leaders, boards, regulators and students
 >
 > Book a call: https://cal.com/pavan-charak/
 
