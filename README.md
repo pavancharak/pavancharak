@@ -20,16 +20,15 @@ Published work:
 - [OWASP mapping](https://docs.parmanasystems.com/security/owasp-mapping): Parmana against the OWASP Top 10 for LLM and Agentic Applications
 - [How Parmana compares](https://docs.parmanasystems.com/how-parmana-compares): Parmana next to IAM, API gateways and LLM guardrails, including where it is weaker
 
-## Consulting and advisory
+## Open for
 
-I work with teams that have an AI agent near money, a system of record or a regulated process, and need to decide what it may do and how to prove it:
+- **Advisory:** product strategy, roadmap and go-to-market for AI platforms and regulated products
+- **Consulting:** design reviews and implementation support for teams building AI systems that act on real money or records
+- **Research collaboration:** verifiable AI, agent authorization, and governance and audit evidence
+- **Speaking:** conferences, panels, webinars and internal workshops on AI governance and trust & safety
+- **Related services:** trust & safety and fraud-prevention reviews, and 0 to 1 product building
 
-- **Agent authorization design:** policy, approval and execution boundaries for agents that act on real systems
-- **Governance and audit readiness:** evidence, records and controls mapped to the regulation you answer to
-- **Product strategy for AI platforms:** 0 to 1 product definition, roadmap and go-to-market for governance-focused infrastructure
-- **Trust & safety:** abuse, fraud and onboarding controls at consumer scale
-
-Engagements start with a short conversation about one real workflow.
+Start with a short conversation about one real problem.
 
 ## Products and open source
 
