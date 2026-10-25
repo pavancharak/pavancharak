@@ -24,6 +24,8 @@ I'm the founder of [Parmana Systems](https://parmanasystems.com), where we build
 - **Python client**: [`parmana` on PyPI](https://pypi.org/project/parmana/) (`pip install parmana`)
 - **TypeScript connector SDK**: [`@parmana/connector-sdk` on npm](https://www.npmjs.com/package/@parmana/connector-sdk)
 - **Python connector SDK**: [`parmana-connector-sdk` on PyPI](https://pypi.org/project/parmana-connector-sdk/)
+- **TypeScript verifier**: [`@parmana/verifier` on npm](https://www.npmjs.com/package/@parmana/verifier) (`npm install -g @parmana/verifier`)
+- **Python verifier**: [`parmana-verifier` on PyPI](https://pypi.org/project/parmana-verifier/) (`pip install parmana-verifier`)
 
 ## Get in touch
 
