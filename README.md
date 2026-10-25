@@ -6,6 +6,16 @@
 
 Product leader with 14+ years across engineering, product and founding, including trust & safety at consumer scale. I write the spec and build the system, particularly for regulated environments where every action has to be accountable.
 
+## Latest
+
+> What can an AI agent do, and how do we prove it?
+>
+> A prompt instruction is not a control. What holds up is a check before each action that a person has approved, and a record a third party can verify without trusting the system that produced it.
+>
+> I work on this through Parmana Systems. I'm open to advisory and architecture reviews, research collaboration, and speaking for business leaders, boards, regulators and students.
+>
+> Book a call: https://cal.com/pavan-charak/
+
 ## Thought leadership
 
 My focus is where AI agents meet accountability: who authorized an action, what policy allowed it, and how a third party can check the record afterwards.
