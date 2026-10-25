@@ -7,7 +7,6 @@ I'm the founder of [Parmana Systems](https://parmanasystems.com), where we build
 ## What I work on
 
 - **Parmana**: policy-gated execution and signed Execution Trust Records for AI agents
-- **Signing and verification**: Ed25519 today, ML-DSA-65 (post-quantum) as an option
 - **Governance and compliance**: mapping agent controls to the EU AI Act, NIST AI RMF, ISO/IEC 42001 and RBI guidance
 
 ## Repositories
@@ -15,7 +14,6 @@ I'm the founder of [Parmana Systems](https://parmanasystems.com), where we build
 | Repo | What it is |
 | --- | --- |
 | [parmana-core](https://github.com/pavancharak/parmana-core) | Policy-gated execution for AI agents, with signed Execution Trust Records |
-| [parmana-sign](https://github.com/pavancharak/parmana-sign) | Ed25519 and ML-DSA-65 signing, canonical hashing and offline verification of execution records |
 | [parmana-site](https://github.com/pavancharak/parmana-site) | Website for Parmana |
 | [parmana-blog](https://github.com/pavancharak/parmana-blog) | Writing on AI governance and verifiable AI |
 
