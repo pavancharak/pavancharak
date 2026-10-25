@@ -20,6 +20,13 @@ Published work:
 - [OWASP mapping](https://docs.parmanasystems.com/security/owasp-mapping): Parmana against the OWASP Top 10 for LLM and Agentic Applications
 - [How Parmana compares](https://docs.parmanasystems.com/how-parmana-compares): Parmana next to IAM, API gateways and LLM guardrails, including where it is weaker
 
+## Who I work with
+
+- **Business leaders** deciding what AI agents may do with money, customers and systems of record
+- **Security teams** who need to authorize, monitor and audit agent actions
+- **AI governance and compliance teams** who must show evidence to regulators and auditors
+- **Educational institutions** building AI policy, research programmes and responsible-use guidance
+
 ## Open for
 
 - **Advisory:** product strategy, roadmap and go-to-market for AI platforms and regulated products
