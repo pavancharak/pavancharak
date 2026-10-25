@@ -23,7 +23,7 @@ Published work:
 ## Open for
 
 - **Advisory:** product strategy, roadmap and go-to-market for AI platforms and regulated products
-- **Consulting:** design reviews and implementation support for teams building AI systems that act on real money or records
+- **Consulting:** architecture reviews, design reviews and implementation support for teams building AI systems that act on real money or records
 - **Research collaboration:** verifiable AI, agent authorization, and governance and audit evidence
 - **Speaking:** conferences, panels, webinars and internal workshops on AI governance and trust & safety
 - **Related services:** trust & safety and fraud-prevention reviews, and 0 to 1 product building
