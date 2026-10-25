@@ -32,7 +32,7 @@ Published work:
 - **Advisory:** product strategy, roadmap and go-to-market for AI platforms and regulated products
 - **Consulting:** architecture reviews, design reviews and implementation support for teams building AI systems that act on real money or records
 - **Research collaboration:** verifiable AI, agent authorization, and governance and audit evidence
-- **Speaking:** conferences, panels, webinars and internal workshops on AI governance and trust & safety
+- **Speaking:** conferences, panels, webinars and internal workshops on AI governance and trust & safety for business leaders, boards and students
 - **Related services:** trust & safety and fraud-prevention reviews, and 0 to 1 product building
 
 **[Book a call](https://cal.com/pavan-charak/)** to talk through one real problem.
