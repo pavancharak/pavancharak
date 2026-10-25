@@ -28,7 +28,7 @@ Published work:
 - **Speaking:** conferences, panels, webinars and internal workshops on AI governance and trust & safety
 - **Related services:** trust & safety and fraud-prevention reviews, and 0 to 1 product building
 
-Start with a short conversation about one real problem.
+**[Book a call](https://cal.com/pavan-charak/)** to talk through one real problem.
 
 ## Products and open source
 
