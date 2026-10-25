@@ -29,5 +29,6 @@ I'm the founder of [Parmana Systems](https://parmanasystems.com), where we build
 
 ## Get in touch
 
+- LinkedIn: [linkedin.com/in/pavancharak](https://www.linkedin.com/in/pavancharak/)
 - Work with us: founder@parmanasystems.com
 - Website: [parmanasystems.com](https://parmanasystems.com)
