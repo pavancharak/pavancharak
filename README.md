@@ -14,6 +14,7 @@ I'm the founder of [Parmana Systems](https://parmanasystems.com), where we build
 | Repo | What it is |
 | --- | --- |
 | [parmana-core](https://github.com/pavancharak/parmana-core) | Policy-gated execution for AI agents, with signed Execution Trust Records |
+| [parmana-verifier](https://github.com/pavancharak/parmana-verifier) | Offline verifier for Parmana Execution Trust Records: no network, no account, no dependencies |
 | [parmana-site](https://github.com/pavancharak/parmana-site) | Website for Parmana |
 | [parmana-blog](https://github.com/pavancharak/parmana-blog) | Writing on AI governance and verifiable AI |
 
