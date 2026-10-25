@@ -18,6 +18,13 @@ I'm the founder of [Parmana Systems](https://parmanasystems.com), where we build
 | [parmana-site](https://github.com/pavancharak/parmana-site) | Website for Parmana |
 | [parmana-blog](https://github.com/pavancharak/parmana-blog) | Writing on AI governance and verifiable AI |
 
+## SDKs
+
+- **TypeScript client**: [`@parmana/sdk` on npm](https://www.npmjs.com/package/@parmana/sdk) (`npm install @parmana/sdk`)
+- **Python client**: [`parmana` on PyPI](https://pypi.org/project/parmana/) (`pip install parmana`)
+- **TypeScript connector SDK**: [`@parmana/connector-sdk` on npm](https://www.npmjs.com/package/@parmana/connector-sdk)
+- **Python connector SDK**: [`parmana-connector-sdk` on PyPI](https://pypi.org/project/parmana-connector-sdk/)
+
 ## Get in touch
 
 - Work with us: founder@parmanasystems.com
