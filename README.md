@@ -69,6 +69,11 @@ Published work:
 
 Other repositories: [parmana-site](https://github.com/pavancharak/parmana-site) (website) and [parmana-blog](https://github.com/pavancharak/parmana-blog) (writing on AI governance and verifiable AI).
 
+## Team
+
+- **Mohinder Singh Charak**, Co-Founder & Director: Indian Army veteran with 30 years of service
+- **K. Venkata Abhigna**, Partnership Manager: AI automation for high-precision industries, building zero-error workflows for manufacturing, aerospace, defence and medical devices
+
 ## Experience
 
 - **Founder & Product Lead, [Parmana Systems](https://parmanasystems.com)** (Aug 2023 to present): built the authorization and enforcement layer for AI agents, from 0 to 1 as sole builder: problem definition, architecture and implementation
