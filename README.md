@@ -25,6 +25,7 @@ My focus is where AI agents meet accountability: who authorized an action, what 
 
 Published work:
 
+- [Parmana research paper (PDF)](docs/parmana-paper.pdf): the Parmana design and its approach to verifiable agent authorization
 - [Regulation mapping](https://docs.parmanasystems.com/security/regulation-mapping): how Parmana supports human oversight and record keeping under the EU AI Act, NIST AI RMF, ISO/IEC 42001 and RBI guidance
 - [OWASP mapping](https://docs.parmanasystems.com/security/owasp-mapping): how Parmana addresses the OWASP Top 10 for LLM and Agentic Applications
 - [How Parmana compares](https://docs.parmanasystems.com/how-parmana-compares): Parmana next to IAM, API gateways and LLM guardrails, including where it is weaker
