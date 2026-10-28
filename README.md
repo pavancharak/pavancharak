@@ -2,27 +2,19 @@
 
 [![npm: @parmana/sdk](https://img.shields.io/npm/v/@parmana/sdk?label=%40parmana%2Fsdk&color=cb3837)](https://www.npmjs.com/package/@parmana/sdk) [![npm: @parmana/verifier](https://img.shields.io/npm/v/@parmana/verifier?label=%40parmana%2Fverifier&color=cb3837)](https://www.npmjs.com/package/@parmana/verifier) [![PyPI: parmana](https://img.shields.io/pypi/v/parmana?label=parmana&color=3776ab)](https://pypi.org/project/parmana/) [![PyPI: parmana-verifier](https://img.shields.io/pypi/v/parmana-verifier?label=parmana-verifier&color=3776ab)](https://pypi.org/project/parmana-verifier/)
 
-**Founder, [Parmana Systems](https://parmanasystems.com).** I write on and build the controls that let AI agents act on real systems: every action checked against signed policy, and a record anyone can verify offline.
+**Founder, [Parmana Systems](https://parmanasystems.com).** I build controls that let AI agents act on real systems: every action is checked against signed policy, and every record can be verified offline by anyone.
 
-Pavan Dev Singh Charak is a technology entrepreneur, AI systems builder, and independent researcher focused on decision infrastructure, autonomous systems, and verifiable computing. His work explores how organizations can retain control over actions performed by artificial intelligence, autonomous agents, software systems, and human actors. He is developing Parmana Systems, an initiative focused on deterministic authorization, execution integrity, and cryptographically verifiable evidence that actions remain within explicitly defined authority. His research interests include artificial intelligence, agentic systems, deterministic governance, decision integrity protocols, cryptographic verification, and trustworthy autonomous operations. He is particularly interested in translating business intent into enforceable rules and creating systems that make authorization explicit, execution predictable, and outcomes independently verifiable.
+I am a technology entrepreneur, AI systems builder and independent researcher. My work covers decision infrastructure, autonomous systems and verifiable computing, with a focus on how organizations keep control over actions taken by AI, software and people. At Parmana Systems I am developing deterministic authorization, execution integrity and cryptographically verifiable evidence that actions stay within explicitly defined authority. I am particularly interested in turning business intent into enforceable rules, so that authorization is explicit, execution is predictable and outcomes can be verified independently.
 
 ## Latest
 
 > What can an AI agent do, and how do we prove it?
 >
 > A prompt instruction is not a control. What holds up is a check before each action that a person has approved, and a record a third party can verify without trusting the system that produced it.
->
-> I work on this through Parmana Systems. The core ([parmana-core](https://github.com/pavancharak/parmana-core)), the [verifier](https://github.com/pavancharak/parmana-verifier) and the SDKs are open source under Apache 2.0.
->
-> I'm open to:
->
-> - Advisory and architecture reviews
-> - Research collaboration
-> - Speaking for business leaders, boards, regulators and students
->
-> Book a call: https://cal.com/pavan-charak/
 
-## Thought leadership
+The core ([parmana-core](https://github.com/pavancharak/parmana-core)), the [verifier](https://github.com/pavancharak/parmana-verifier) and the SDKs are open source under Apache 2.0.
+
+## Writing
 
 My focus is where AI agents meet accountability: who authorized an action, what policy allowed it, and how a third party can check the record afterwards.
 
@@ -32,24 +24,22 @@ My focus is where AI agents meet accountability: who authorized an action, what 
 - **Trust & safety and fraud at scale:** lessons from a platform with 2M+ monthly active users
 
 Published work:
+
 - [Regulation mapping](https://docs.parmanasystems.com/security/regulation-mapping): how Parmana supports human oversight and record keeping under the EU AI Act, NIST AI RMF, ISO/IEC 42001 and RBI guidance
-- [OWASP mapping](https://docs.parmanasystems.com/security/owasp-mapping): Parmana against the OWASP Top 10 for LLM and Agentic Applications
+- [OWASP mapping](https://docs.parmanasystems.com/security/owasp-mapping): how Parmana addresses the OWASP Top 10 for LLM and Agentic Applications
 - [How Parmana compares](https://docs.parmanasystems.com/how-parmana-compares): Parmana next to IAM, API gateways and LLM guardrails, including where it is weaker
 
-## Who I work with
+## Services and speaking
 
-- **Business leaders** deciding what AI agents may do with money, customers and systems of record
-- **Security teams** who need to authorize, monitor and audit agent actions
-- **AI governance and compliance teams** who must show evidence to regulators and auditors
-- **Educational institutions** building AI policy, research programmes and responsible-use guidance
-
-## Open for
+I am open to:
 
 - **Advisory:** product strategy, roadmap and go-to-market for AI platforms and regulated products
-- **Consulting:** architecture reviews, design reviews and implementation support for teams building AI systems that act on real money or records
+- **Architecture and design reviews:** implementation support for teams building AI systems that act on money or records
 - **Research collaboration:** verifiable AI, agent authorization, and governance and audit evidence
-- **Speaking:** conferences, panels, webinars and internal workshops on AI governance and trust & safety for business leaders, boards and students
-- **Related services:** trust & safety and fraud-prevention reviews, and 0 to 1 product building
+- **Speaking:** conferences, panels, webinars and internal workshops on AI governance and trust & safety, for business leaders, boards, regulators and students
+- **Related work:** trust & safety and fraud-prevention reviews, and 0 to 1 product building
+
+Typical audiences: business leaders deciding what AI agents may do with money, customers and systems of record; security teams that authorize, monitor and audit agent actions; governance and compliance teams that must show evidence to regulators; and educational institutions shaping AI policy and responsible-use guidance.
 
 **[Book a call](https://cal.com/pavan-charak/)** to talk through one real problem.
 
@@ -89,5 +79,6 @@ Other repositories: [parmana-site](https://github.com/pavancharak/parmana-site) 
 ## Get in touch
 
 - Consulting, speaking and partnerships: founder@parmanasystems.com
+- Book a call: [cal.com/pavan-charak](https://cal.com/pavan-charak/)
 - LinkedIn: [linkedin.com/in/pavancharak](https://www.linkedin.com/in/pavancharak/)
 - Website: [parmanasystems.com](https://parmanasystems.com)
