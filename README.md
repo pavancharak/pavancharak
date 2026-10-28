@@ -4,7 +4,7 @@
 
 **Founder, [Parmana Systems](https://parmanasystems.com).** I write on and build the controls that let AI agents act on real systems: every action checked against signed policy, and a record anyone can verify offline.
 
-Product leader with 14+ years across engineering, product and founding, including trust & safety at consumer scale. I write the spec and build the system, particularly for regulated environments where every action has to be accountable.
+Pavan Dev Singh Charak is a technology entrepreneur, AI systems builder, and independent researcher focused on decision infrastructure, autonomous systems, and verifiable computing. His work explores how organizations can retain control over actions performed by artificial intelligence, autonomous agents, software systems, and human actors. He is developing Parmana Systems, an initiative focused on deterministic authorization, execution integrity, and cryptographically verifiable evidence that actions remain within explicitly defined authority. His research interests include artificial intelligence, agentic systems, deterministic governance, decision integrity protocols, cryptographic verification, and trustworthy autonomous operations. He is particularly interested in translating business intent into enforceable rules and creating systems that make authorization explicit, execution predictable, and outcomes independently verifiable.
 
 ## Latest
 
