@@ -90,7 +90,7 @@ Typical audiences: business leaders deciding what AI agents may do with money, c
 ## Contact
 
 - Consulting, speaking and partnerships: founder@parmanasystems.com
-- Authority Trace reviews: charak1987@gmail.com
+- Authority Trace reviews: charak1987@gmail.com · [Authority Trace page](https://pavancharak.github.io/authority-trace/)
 - Book a call: [cal.com/pavan-charak](https://cal.com/pavan-charak/)
 - LinkedIn: [linkedin.com/in/pavancharak](https://www.linkedin.com/in/pavancharak/)
 - Website: [parmanasystems.com](https://parmanasystems.com)
