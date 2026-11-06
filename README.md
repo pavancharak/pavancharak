@@ -4,7 +4,7 @@
 
 Founder of [Parmana Systems](https://parmanasystems.com). I build controls that let AI agents act on real systems: every action is checked against signed policy, and every record can be verified offline by anyone.
 
-I also run [Authority Trace](https://pavancharak.github.io/authority-trace/), an independent review service for CEOs, CTOs, CISOs, CROs and engineering leaders, confirming that automated systems do only what they are authorised to do. The Authority Trace newsletter is invitation only: [authoritytrace.substack.com](https://authoritytrace.substack.com/). Published issues are listed in the [newsletter index](https://github.com/pavancharak/authority-trace/blob/main/NEWSLETTER.md). To request an invitation, email charak1987@gmail.com.
+I also run [Authority Trace](https://pavancharak.github.io/authority-trace/), an independent review service for CEOs, CTOs, CISOs, CROs and engineering leaders, confirming that automated systems do only what they are authorised to do. The Authority Trace newsletter is invitation only: [authoritytrace.substack.com](https://authoritytrace.substack.com/). Published issues are listed in the [newsletter index](https://github.com/pavancharak/authority-trace/blob/main/NEWSLETTER.md). To request an invitation, email charak1987@gmail.com. Read the [Authority Trace README](https://github.com/pavancharak/authority-trace#readme) for more.
 ## About
 
 I am a technology entrepreneur, AI systems builder and independent researcher. My work covers decision infrastructure, autonomous systems and verifiable computing, with a focus on how organisations keep control over actions taken by AI, software and people.
