@@ -4,7 +4,7 @@
 
 Founder of [Parmana Systems](https://parmanasystems.com). I build controls that let AI agents act on real systems: every action is checked against signed policy, and every record can be verified offline by anyone.
 
-I also run [Authority Trace](https://github.com/pavancharak/authority-trace), an independent review service for execution integrity, business authority, infrastructure and runtime authorisation.
+I also run [Authority Trace](https://pavancharak.github.io/authority-trace/), an independent review service for execution integrity, business authority, infrastructure and runtime authorisation. Source: [github.com/pavancharak/authority-trace](https://github.com/pavancharak/authority-trace).
 
 ## About
 
@@ -61,7 +61,7 @@ Published work:
 - **Research collaboration:** verifiable AI, agent authorisation, and governance and audit evidence.
 - **Speaking:** conferences, panels, webinars and internal workshops on AI governance and trust and safety, for business leaders, boards, regulators and students.
 - **Related work:** trust and safety and fraud-prevention reviews, and 0-to-1 product building.
-- **Independent review:** execution integrity, business authority, infrastructure and runtime authorisation, through [Authority Trace](https://github.com/pavancharak/authority-trace).
+- **Independent review:** execution integrity, business authority, infrastructure and runtime authorisation, through [Authority Trace](https://pavancharak.github.io/authority-trace/).
 
 Typical audiences: business leaders deciding what AI agents may do with money, customers and systems of record; security teams that authorise, monitor and audit agent actions; governance and compliance teams that must show evidence to regulators; and educational institutions shaping AI policy and responsible-use guidance.
 
