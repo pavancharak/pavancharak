@@ -4,7 +4,6 @@
 
 Founder of [Parmana Systems](https://parmanasystems.com). I build controls that let AI agents act on real systems: every action is checked against signed policy, and every record can be verified offline by anyone.
 
-I also run [Authority Trace](https://pavancharak.github.io/authority-trace/), an independent review service for CEOs, CTOs, CISOs, CROs and engineering leaders, confirming that automated systems do only what they are authorised to do. The Authority Trace newsletter is invitation only: [authoritytrace.substack.com](https://authoritytrace.substack.com/). Published issues are listed in the [newsletter index](https://github.com/pavancharak/authority-trace/blob/main/NEWSLETTER.md). To request an invitation, email charak1987@gmail.com. Read the [Authority Trace README](https://github.com/pavancharak/authority-trace#readme) for more.
 ## About
 
 I am a technology entrepreneur, AI systems builder and independent researcher. My work covers decision infrastructure, autonomous systems and verifiable computing, with a focus on how organisations keep control over actions taken by AI, software and people.
@@ -67,7 +66,6 @@ Published work:
 - **Research collaboration:** verifiable AI, agent authorisation, and governance and audit evidence.
 - **Speaking:** conferences, panels, webinars and internal workshops on AI governance and trust and safety, for business leaders, boards, regulators and students.
 - **Related work:** trust and safety and fraud-prevention reviews, and 0-to-1 product building.
-- **Independent review:** for CEOs, CTOs, CISOs, CROs and engineering leaders, confirming that automated systems do only what they are authorised to do, through [Authority Trace](https://pavancharak.github.io/authority-trace/).
 
 Typical audiences: business leaders deciding what AI agents may do with money, customers and systems of record; security teams that authorise, monitor and audit agent actions; governance and compliance teams that must show evidence to regulators; and educational institutions shaping AI policy and responsible-use guidance.
 
@@ -96,7 +94,6 @@ Typical audiences: business leaders deciding what AI agents may do with money, c
 ## Contact
 
 - Consulting, speaking and partnerships: founder@parmanasystems.com
-- Authority Trace reviews: charak1987@gmail.com · [Authority Trace page](https://pavancharak.github.io/authority-trace/)
 - Book a call: [cal.com/pavan-charak](https://cal.com/pavan-charak/)
 - LinkedIn: [linkedin.com/in/pavancharak](https://www.linkedin.com/in/pavancharak/)
 - Website: [parmanasystems.com](https://parmanasystems.com)
