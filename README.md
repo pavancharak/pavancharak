@@ -26,7 +26,7 @@ Reported two advisories in [AiSOC](https://github.com/beenuar/AiSOC), an open-so
 
 ## Research
 
-- **[The Authority Gap: Why Autonomous AI Needs Deterministic Execution Boundaries](https://github.com/pavancharak/parmana-core)** (discussion draft, November 2026). It argues that an institution's authority over an AI agent must be declared independently, decided deterministically and enforced at the point of execution, with the evidence kept verifiable. The paper is in the [parmana-core](https://github.com/pavancharak/parmana-core) repository as `authority-gap.md`.
+- **[The Authority Gap: Why Autonomous AI Needs Deterministic Execution Boundaries](https://github.com/pavancharak/parmana-core/blob/claude/wonderful-ride-g0wvkf/authority-gap.md)** (discussion draft, November 2026). It argues that an institution's authority over an AI agent must be declared independently, decided deterministically and enforced at the point of execution, with the evidence kept verifiable. The paper is `authority-gap.md` in the [parmana-core](https://github.com/pavancharak/parmana-core) repository.
 
 **Published work on Parmana**
 
