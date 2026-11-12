@@ -22,7 +22,7 @@ The core ([parmana-core](https://github.com/pavancharak/parmana-core)) and the [
 
 ## Security research
 
-Reported two advisories in [AiSOC](https://github.com/beenuar/AiSOC), an open-source AI security operations platform: [GHSA-ghpm-vc6j-hp5r](https://github.com/beenuar/AiSOC/security/advisories/GHSA-ghpm-vc6j-hp5r) and [GHSA-hrc5-w9r3-2g8r](https://github.com/beenuar/AiSOC/security/advisories/GHSA-hrc5-w9r3-2g8r), both fixed in [PR #1750](https://github.com/beenuar/AiSOC/pull/1750).
+Reported two advisories in [AiSOC](https://github.com/beenuar/AiSOC), an open-source AI security operations platform: [GHSA-ghpm-vc6j-hp5r](https://github.com/beenuar/AiSOC/security/advisories/GHSA-ghpm-vc6j-hp5r) and [GHSA-hrc5-w9r3-2g8r](https://github.com/beenuar/AiSOC/security/advisories/GHSA-hrc5-w9r3-2g8r), both fixed in [PR #1750](https://github.com/beenuar/AiSOC/pull/1750). Listed in [AiSOC's credits](https://github.com/beenuar/AiSOC/blob/main/.github/CREDITS.md).
 
 ## Research
 
