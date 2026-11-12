@@ -1,6 +1,6 @@
 # Pavan Dev Singh Charak
 
-[![npm: @parmana/sdk](https://img.shields.io/npm/v/@parmana/sdk?label=%40parmana%2Fsdk&color=cb3837)](https://www.npmjs.com/package/@parmana/sdk) [![npm: @parmana/verifier](https://img.shields.io/npm/v/@parmana/verifier?label=%40parmana%2Fverifier&color=cb3837)](https://www.npmjs.com/package/@parmana/verifier) [![PyPI: parmana](https://img.shields.io/pypi/v/parmana?label=parmana&color=3776ab)](https://pypi.org/project/parmana/) [![PyPI: parmana-verifier](https://img.shields.io/pypi/v/parmana-verifier?label=parmana-verifier&color=3776ab)](https://pypi.org/project/parmana-verifier/)
+[![npm: @parmana/verifier](https://img.shields.io/npm/v/@parmana/verifier?label=%40parmana%2Fverifier&color=cb3837)](https://www.npmjs.com/package/@parmana/verifier) [![PyPI: parmana-verifier](https://img.shields.io/pypi/v/parmana-verifier?label=parmana-verifier&color=3776ab)](https://pypi.org/project/parmana-verifier/)
 
 Founder of [Parmana Systems](https://parmanasystems.com). I build controls that let AI agents act on real systems: every action is checked against signed policy, and every record can be verified offline by anyone.
 
@@ -8,7 +8,7 @@ Founder of [Parmana Systems](https://parmanasystems.com). I build controls that 
 
 I am a technology entrepreneur, AI systems builder and independent researcher. My work covers decision infrastructure, autonomous systems and verifiable computing, with a focus on how organisations keep control over actions taken by AI, software and people.
 
-At Parmana Systems I am developing deterministic authorisation, execution integrity and cryptographically verifiable evidence, so that actions stay within explicitly defined authority. I am particularly interested in turning business intent into enforceable rules, so that authorisation is explicit, execution is predictable and outcomes can be verified independently.
+At Parmana Systems I am developing deterministic authorisation, execution integrity and cryptographically verifiable evidence. The aim is to turn business intent into enforceable rules, so that authorisation is explicit, execution is predictable and outcomes can be verified independently.
 
 ## Current focus
 
@@ -18,21 +18,17 @@ At Parmana Systems I am developing deterministic authorisation, execution integr
 
 ## Open source
 
-The core ([parmana-core](https://github.com/pavancharak/parmana-core)), the [verifier](https://github.com/pavancharak/parmana-verifier) and the SDKs are open source under the Apache 2.0 licence.
+The core ([parmana-core](https://github.com/pavancharak/parmana-core)) and the [verifier](https://github.com/pavancharak/parmana-verifier) are open source under the Apache 2.0 licence.
 
 | Project | What it does |
 | --- | --- |
 | [Parmana](https://github.com/pavancharak/parmana-core) | Policy-gated execution for AI agents, with signed Execution Trust Records |
 | [Parmana Verifier](https://github.com/pavancharak/parmana-verifier) | Offline checks for Execution Trust Records, with no network, no account and no dependencies |
 
-| Package | Language | Install |
+| Verifier package | Language | Install |
 | --- | --- | --- |
-| [`@parmana/sdk`](https://www.npmjs.com/package/@parmana/sdk) | TypeScript client | `npm install @parmana/sdk` |
-| [`parmana`](https://pypi.org/project/parmana/) | Python client | `pip install parmana` |
-| [`@parmana/connector-sdk`](https://www.npmjs.com/package/@parmana/connector-sdk) | TypeScript connector SDK | `npm install @parmana/connector-sdk` |
-| [`parmana-connector-sdk`](https://pypi.org/project/parmana-connector-sdk/) | Python connector SDK | `pip install parmana-connector-sdk` |
-| [`@parmana/verifier`](https://www.npmjs.com/package/@parmana/verifier) | TypeScript verifier | `npm install -g @parmana/verifier` |
-| [`parmana-verifier`](https://pypi.org/project/parmana-verifier/) | Python verifier | `pip install parmana-verifier` |
+| [`@parmana/verifier`](https://www.npmjs.com/package/@parmana/verifier) | TypeScript | `npm install -g @parmana/verifier` |
+| [`parmana-verifier`](https://pypi.org/project/parmana-verifier/) | Python | `pip install parmana-verifier` |
 
 Other repositories: [parmana-site](https://github.com/pavancharak/parmana-site) (website) and [parmana-blog](https://github.com/pavancharak/parmana-blog) (writing on AI governance and verifiable AI).
 
@@ -47,6 +43,13 @@ Other repositories: [parmana-site](https://github.com/pavancharak/parmana-site) 
 
 - **[The Authority Gap: Why Autonomous AI Needs Deterministic Execution Boundaries](https://github.com/pavancharak/parmana-core)** (discussion draft, November 2026). It argues that an institution's authority over an AI agent must be declared independently, decided deterministically and enforced at the point of execution, with the evidence kept verifiable. The paper is in the [parmana-core](https://github.com/pavancharak/parmana-core) repository as `authority-gap.md`.
 
+Published work on Parmana:
+
+- [Parmana research paper (PDF)](docs/parmana-paper.pdf): the Parmana design and its approach to verifiable agent authorisation.
+- [Regulation mapping](https://docs.parmanasystems.com/security/regulation-mapping): how Parmana supports human oversight and record keeping under the EU AI Act, NIST AI RMF, ISO/IEC 42001 and RBI guidance.
+- [OWASP mapping](https://docs.parmanasystems.com/security/owasp-mapping): how Parmana addresses the OWASP Top 10 for LLM and Agentic Applications.
+- [How Parmana compares](https://docs.parmanasystems.com/how-parmana-compares): Parmana next to IAM, API gateways and LLM guardrails, including where it is weaker.
+
 ## Writing
 
 My focus is where AI agents meet accountability: who authorised an action, what policy allowed it, and how a third party can check the record afterwards.
@@ -56,13 +59,6 @@ My focus is where AI agents meet accountability: who authorised an action, what 
 - **Regulation in practice:** mapping agent controls to the EU AI Act, NIST AI RMF, ISO/IEC 42001 and RBI guidance.
 - **Trust and safety, and fraud at scale:** lessons from a platform with more than 2 million monthly active users.
 
-Published work:
-
-- [Parmana research paper (PDF)](docs/parmana-paper.pdf): the Parmana design and its approach to verifiable agent authorisation.
-- [Regulation mapping](https://docs.parmanasystems.com/security/regulation-mapping): how Parmana supports human oversight and record keeping under the EU AI Act, NIST AI RMF, ISO/IEC 42001 and RBI guidance.
-- [OWASP mapping](https://docs.parmanasystems.com/security/owasp-mapping): how Parmana addresses the OWASP Top 10 for LLM and Agentic Applications.
-- [How Parmana compares](https://docs.parmanasystems.com/how-parmana-compares): Parmana next to IAM, API gateways and LLM guardrails, including where it is weaker.
-
 ## Services and speaking
 
 - **Advisory:** product strategy, roadmap and go-to-market for AI platforms and regulated products.
@@ -71,7 +67,12 @@ Published work:
 - **Speaking:** conferences, panels, webinars and internal workshops on AI governance and trust and safety, for business leaders, boards, regulators and students.
 - **Related work:** trust and safety and fraud-prevention reviews, and 0-to-1 product building.
 
-Typical audiences: business leaders deciding what AI agents may do with money, customers and systems of record; security teams that authorise, monitor and audit agent actions; governance and compliance teams that must show evidence to regulators; and educational institutions shaping AI policy and responsible-use guidance.
+**Typical audiences:**
+
+- Business leaders deciding what AI agents may do with money, customers and systems of record.
+- Security teams that authorise, monitor and audit agent actions.
+- Governance and compliance teams that must show evidence to regulators.
+- Educational institutions shaping AI policy and responsible-use guidance.
 
 **[Book a call](https://cal.com/pavan-charak/)** to talk through one real problem.
 
@@ -98,6 +99,6 @@ Typical audiences: business leaders deciding what AI agents may do with money, c
 ## Contact
 
 - Consulting, speaking and partnerships: founder@parmanasystems.com
-- Book a call: [cal.com/pavan-charak](https://cal.com/pavan-charak/)
 - LinkedIn: [linkedin.com/in/pavancharak](https://www.linkedin.com/in/pavancharak/)
 - Website: [parmanasystems.com](https://parmanasystems.com)
+- Calendar: [cal.com/pavan-charak](https://cal.com/pavan-charak/)
