@@ -43,6 +43,10 @@ Other repositories: [parmana-site](https://github.com/pavancharak/parmana-site) 
   - [GHSA-hrc5-w9r3-2g8r](https://github.com/beenuar/AiSOC/security/advisories/GHSA-hrc5-w9r3-2g8r): role changes were bounded in only one direction, so a tenant administrator could demote its only peer and then itself.
 - Both were fixed in [PR #1750](https://github.com/beenuar/AiSOC/pull/1750), merged into AiSOC's `main`.
 
+## Research
+
+- **[The Authority Gap: Why Autonomous AI Needs Deterministic Execution Boundaries](https://github.com/pavancharak/parmana-core)** (discussion draft, November 2026). It argues that an institution's authority over an AI agent must be declared independently, decided deterministically and enforced at the point of execution, with the evidence kept verifiable. The paper is in the [parmana-core](https://github.com/pavancharak/parmana-core) repository as `authority-gap.md`.
+
 ## Writing
 
 My focus is where AI agents meet accountability: who authorised an action, what policy allowed it, and how a third party can check the record afterwards.
