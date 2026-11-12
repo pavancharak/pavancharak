@@ -35,15 +35,6 @@ Published work on Parmana:
 - [OWASP mapping](https://docs.parmanasystems.com/security/owasp-mapping): how Parmana addresses the OWASP Top 10 for LLM and Agentic Applications.
 - [How Parmana compares](https://docs.parmanasystems.com/how-parmana-compares): Parmana next to IAM, API gateways and LLM guardrails, including where it is weaker.
 
-## Writing
-
-My focus is where AI agents meet accountability: who authorised an action, what policy allowed it, and how a third party can check the record afterwards.
-
-- **AI governance for agents:** why a prompt is not a control, and what enforceable controls look like.
-- **Verifiable AI:** signed execution records, post-quantum readiness (ML-DSA-65), and offline verification.
-- **Regulation in practice:** mapping agent controls to the EU AI Act, NIST AI RMF, ISO/IEC 42001 and RBI guidance.
-- **Trust and safety, and fraud at scale:** lessons from a platform with more than 2 million monthly active users.
-
 ## Services and speaking
 
 - **Advisory:** product strategy, roadmap and go-to-market for AI platforms and regulated products.
