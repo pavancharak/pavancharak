@@ -28,12 +28,12 @@ Reported two advisories in [AiSOC](https://github.com/beenuar/AiSOC), an open-so
 
 - **[The Authority Gap: Why Autonomous AI Needs Deterministic Execution Boundaries](https://github.com/pavancharak/parmana-core)** (discussion draft, November 2026). It argues that an institution's authority over an AI agent must be declared independently, decided deterministically and enforced at the point of execution, with the evidence kept verifiable. The paper is in the [parmana-core](https://github.com/pavancharak/parmana-core) repository as `authority-gap.md`.
 
-Published work on Parmana:
+**Published work on Parmana**
 
-- [Parmana research paper (PDF)](docs/parmana-paper.pdf): the Parmana design and its approach to verifiable agent authorisation.
-- [Regulation mapping](https://docs.parmanasystems.com/security/regulation-mapping): how Parmana supports human oversight and record keeping under the EU AI Act, NIST AI RMF, ISO/IEC 42001 and RBI guidance.
-- [OWASP mapping](https://docs.parmanasystems.com/security/owasp-mapping): how Parmana addresses the OWASP Top 10 for LLM and Agentic Applications.
-- [How Parmana compares](https://docs.parmanasystems.com/how-parmana-compares): Parmana next to IAM, API gateways and LLM guardrails, including where it is weaker.
+- **[Parmana research paper (PDF)](docs/parmana-paper.pdf):** the design of Parmana and its approach to verifiable agent authorisation.
+- **[Regulation mapping](https://docs.parmanasystems.com/security/regulation-mapping):** how Parmana supports human oversight and record keeping under the EU AI Act, NIST AI RMF, ISO/IEC 42001 and RBI guidance.
+- **[OWASP mapping](https://docs.parmanasystems.com/security/owasp-mapping):** how Parmana addresses the OWASP Top 10 for LLM and Agentic Applications.
+- **[How Parmana compares](https://docs.parmanasystems.com/how-parmana-compares):** Parmana set against IAM, API gateways and LLM guardrails, including where it is weaker.
 
 ## Services and speaking
 
