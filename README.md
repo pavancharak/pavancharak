@@ -20,18 +20,6 @@ At Parmana Systems I am developing deterministic authorisation, execution integr
 
 The core ([parmana-core](https://github.com/pavancharak/parmana-core)) and the [verifier](https://github.com/pavancharak/parmana-verifier) are open source under the Apache 2.0 licence.
 
-| Project | What it does |
-| --- | --- |
-| [Parmana](https://github.com/pavancharak/parmana-core) | Policy-gated execution for AI agents, with signed Execution Trust Records |
-| [Parmana Verifier](https://github.com/pavancharak/parmana-verifier) | Offline checks for Execution Trust Records, with no network, no account and no dependencies |
-
-| Verifier package | Language | Install |
-| --- | --- | --- |
-| [`@parmana/verifier`](https://www.npmjs.com/package/@parmana/verifier) | TypeScript | `npm install -g @parmana/verifier` |
-| [`parmana-verifier`](https://pypi.org/project/parmana-verifier/) | Python | `pip install parmana-verifier` |
-
-Other repositories: [parmana-site](https://github.com/pavancharak/parmana-site) (website) and [parmana-blog](https://github.com/pavancharak/parmana-blog) (writing on AI governance and verifiable AI).
-
 ## Security research
 
 - Reported two advisories in [AiSOC](https://github.com/beenuar/AiSOC), an open-source AI security operations platform:
