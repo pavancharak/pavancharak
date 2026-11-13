@@ -27,6 +27,7 @@ Reported two advisories in [AiSOC](https://github.com/beenuar/AiSOC), an open-so
 ## Research
 
 - **[The Authority Gap: Why Autonomous AI Needs Deterministic Execution Boundaries](https://github.com/pavancharak/parmana-core/blob/claude/wonderful-ride-g0wvkf/authority-gap.md)** (discussion draft, November 2026). It argues that an institution's authority over an AI agent must be declared independently, decided deterministically and enforced at the point of execution, with the evidence kept verifiable. The paper is `authority-gap.md` in the [parmana-core](https://github.com/pavancharak/parmana-core) repository.
+- **[Beyond Trust But Verify: Why Autonomous AI Needs Verifiable Execution](https://github.com/pavancharak/parmana-core/pull/606)** (research paper, pull request, November 2026). It argues that authority over autonomous AI must be explicit, independently evaluated and verifiable, and cites the Carnegie report and California's frontier AI laws.
 
 **Published work on Parmana**
 
