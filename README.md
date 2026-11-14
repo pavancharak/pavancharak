@@ -37,6 +37,7 @@ Reported two advisories in [AiSOC](https://github.com/beenuar/AiSOC), an open-so
 - **[Regulation mapping](https://docs.parmanasystems.com/security/regulation-mapping):** how Parmana supports human oversight and record keeping under the EU AI Act, NIST AI RMF, ISO/IEC 42001 and RBI guidance.
 - **[OWASP mapping](https://docs.parmanasystems.com/security/owasp-mapping):** how Parmana addresses the OWASP Top 10 for LLM and Agentic Applications.
 - **[How Parmana compares](https://docs.parmanasystems.com/how-parmana-compares):** Parmana set against IAM, API gateways and LLM guardrails, including where it is weaker.
+- **[Mutation testing results](https://github.com/pavancharak/parmana-core/blob/main/docs/internal/testing/MUTATION-TESTING.md):** how well the tests in parmana-core's security-critical packages catch deliberate changes to the code, with the scores and the surviving changes reviewed.
 
 ## Services and speaking
 
